@@ -1,5 +1,5 @@
 .carousel a:any-link {
-    color: rgb(133, 10, 10);
+    color: rgb(255, 255, 255);
 }
 
 
@@ -18,7 +18,6 @@ main .section.hero-carousel .carousel-slide-content {
 	width: 40%;
 	padding: 30px;
 	z-index: 10;
-	a:any-link {color: white};
 }
 
 main .section.hero-carousel h5 {
